@@ -5,3 +5,4 @@
 Should be a conflict here
 
 Another conflict from machine
+Another conflict
